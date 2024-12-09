@@ -7,7 +7,7 @@
 - User can configure the size of the market, the strategy used by a market participant and press on a player to make then overproduce/ need product by changing price
 
 ## Done so far
-ising model and display/ input
+Boolean ising model and display/ input
 
 ## Todo
 
